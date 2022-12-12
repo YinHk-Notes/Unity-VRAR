@@ -39,7 +39,13 @@ The XR Interaction package provides an example implementation of a **Snap Turn P
 ### Teleportation
 The XR Interaction system provides a simple implementation of teleportation. The **Teleportation Provider** Component implements the LocomotionProvider abstract class.
 
+The Teleportation Provider inherits from the LocomotionProvider abstract class. The Teleportation Provider is responsible for moving the XR Rig to the desired location as requested by the user.
 
+This implementation has two types of teleportation destinations. An 'Anchor' Based teleportation destination, and an 'Area' Based teleportation destination. These are discussed in more detail further below. In short:
+
+- **Anchors** will always teleport the user to a specific position and/or rotation specified by the anchor.
+- **Areas** allow the player to choose a location on a surface that they wish to teleport to.
+Both types of teleportation destinations are implemented on top of the XR Interaction system using the Base Teleportation Interactable as the starting point for shared code.
 
 ### ref
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.0/manual/locomotion.html
