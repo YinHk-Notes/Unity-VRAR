@@ -22,4 +22,11 @@ The following sections of this document outline how to use and extend these syst
 | Teleportation | A type of locomotion that teleports the user from one position to another position. |
 | Snap Turn | A type of locomotion that rotates the user by a fixed angle. |
 
+### XR Rig
+The XR Rig is used by the Locomotion System as the anchor for the player.
+
+### Locomotion System
+The Locomotion System is a Monobehaviour that acts as the arbitrator for Locomotion Providers access to an XR Rig.
+
+### ref
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.0/manual/locomotion.html
