@@ -1,13 +1,14 @@
 ## Locomotion
-The XR Interaction package provides a set of locomotion primitives to provide the means to move about a scene during an XR experience. These components are:
+The XR Interaction Toolkit package provides a set of locomotion primitives that offer the means to move around in a scene during an XR experience. These components include:
 
-- An XR Rig that represents the player
-- A Locomotion System
-- A Teleportation System, with Teleportation destinations
-- A Snap Turn System
-The following sections of this document outline how to use and extend these systems.
-
-
+- An XR Origin that represents the user
+- A Locomotion System that controls access to the XR Origin
+- A Teleportation Provider and Teleportation Interactables
+- A Snap Turn Provider that rotates the user by fixed angles
+- A Continuous Turn Provider that smoothly rotates the user over time
+- A Continuous Move Provider that smoothly moves the user over time
+- A Grab Move Provider that moves the user counter to controller movement
+- A Two Handed Grab Move Provider that can move, rotate, and scale the user counter to controller movement
 
 | Term | Meaning |
 | --- | --- |
