@@ -28,5 +28,8 @@ The XR Rig is used by the Locomotion System as the anchor for the player.
 ### Locomotion System
 The Locomotion System is a Monobehaviour that acts as the arbitrator for Locomotion Providers access to an XR Rig.
 
+### Locomotion Providers
+Locomotion Providers are where different types of locomotion are implemented. Two Locomotion Providers are supplied as part of the XR Interaction package. The **Teleportation Locomotion Provider** and the **Snap Turn Locomotion Provider**. Both implement the `LocomotionProvider` abstract class.
+
 ### ref
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.0/manual/locomotion.html
