@@ -31,5 +31,7 @@ The Locomotion System is a Monobehaviour that acts as the arbitrator for Locomot
 ### Locomotion Providers
 Locomotion Providers are where different types of locomotion are implemented. Two Locomotion Providers are supplied as part of the XR Interaction package. The **Teleportation Locomotion Provider** and the **Snap Turn Locomotion Provider**. Both implement the `LocomotionProvider` abstract class.
 
+The XR Interaction system provides two implementations of a Locomotion Provider. The **Teleport Locomotion Provider**, and the **SnapTurn Locomotion Provider**.
+
 ### ref
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.0/manual/locomotion.html
