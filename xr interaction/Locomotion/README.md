@@ -11,16 +11,21 @@ The following sections of this document outline how to use and extend these syst
 
 | Term | Meaning |
 | --- | --- |
-| XR Rig | MonoBehaviour that specifies a Rig, a Camera Offset, a Camera. Also provides Stationary or Room-Scale options of tracking space to configure the XR Rig. |
-| Rig | The base GameObject of the XR Rig. This is the GameObject that will be manipulated via locomotion. By default it is the object that XR Rig is attached to. |
-| Camera Offset | GameObject to move the Camera to desired height off the floor. |
-| Camera | GameObject that contains a camera component, this is usually the main camera that renders what the user sees, and is usually the 'head' of XR rigs. |
-| Room-Scale | A floor-relative tracking mode. When the scene starts, the origin is the floor. |
-| Stationary | A device-relative tracking mode. When the scene starts, the origin is the device. The camera will be moved to the height set by Camera Offset. |
-| Locomotion System | MonoBehaviour that controls which Locomotion Provider has the access to move the Rig. |
-| Locomotion Provider | Base class for various locomotion implementations. |
+| XR Origin | The component that implements the generic concept of a camera rig. It also provides options of tracking origin modes to configure the reference frame for positions reported by the XR device. It has properties to specify an Origin, a Camera Floor Offset Object, and a Camera Object. |
+| Origin | By default, the Origin is the GameObject that the XR Origin component is attached to, and the term is generally used interchangeably with XR Origin. This is the GameObject that the application will manipulate via locomotion. |
+| Camera Floor Offset Object | The GameObject to move the Camera to the desired height off the floor depending on the tracking origin mode. |
+| Camera Object | The GameObject that contains a Camera component. This is usually the Main Camera that renders what the user sees. It is the head of XR rigs. |
+| Floor mode | A floor-relative tracking origin mode. Input devices will be tracked relative to a location on the user's floor. |
+| Device mode | A device-relative tracking origin mode. Input devices will be tracked relative to the first known location. The Camera is moved to the height set by the Camera Y Offset value by moving the Camera Floor Offset Object. |
+| Locomotion System | The component that controls which Locomotion Provider can move the user. |
+| Locomotion Provider | The base class for various locomotion implementations, such as teleportation and turning. |
 | Teleportation | A type of locomotion that teleports the user from one position to another position. |
 | Snap Turn | A type of locomotion that rotates the user by a fixed angle. |
+| Continuous Turn | A type of locomotion that smoothly rotates the user by an amount over time. |
+| Continuous Move | A type of locomotion that smoothly moves the user by an amount over time. |
+| Grab Move | A type of locomotion that moves the user counter to controller movement, as if the user is grabbing the world around them. |
+| Action-based | The recommended type of input based on referencing the Actions and their controller bindings in the Input System. |
+| Device-based | An alternative type of input based on reading inputs from a InputDevice. |
 
 ### XR Rig
 The XR Rig is used by the Locomotion System as the anchor for the player.
