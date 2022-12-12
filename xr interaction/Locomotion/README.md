@@ -47,5 +47,11 @@ This implementation has two types of teleportation destinations. An 'Anchor' Bas
 - **Areas** allow the player to choose a location on a surface that they wish to teleport to.
 Both types of teleportation destinations are implemented on top of the XR Interaction system using the Base Teleportation Interactable as the starting point for shared code.
 
+#### Teleport Area Interactable
+The Teleport Area interactable allows the user to select any location within the teleport anchor as their destination. 
+
+#### Teleport Anchor Interactable
+The Teleport Anchor allows the user to teleport to an anchor location by selecting the anchor, or an area around it. 
+
 ### ref
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.0/manual/locomotion.html
