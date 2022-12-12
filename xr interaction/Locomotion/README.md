@@ -34,7 +34,11 @@ Locomotion Providers are where different types of locomotion are implemented. Tw
 The XR Interaction system provides two implementations of a Locomotion Provider. The **Teleport Locomotion Provider**, and the **SnapTurn Locomotion Provider**.
 
 ### Snap Turn
-The XR Interaction package provides an example implementation of a Snap Turn Provider. A Snap turn is when the user is rotated some fixed amount when an configured input is recevied. E.G: a joystic is moved to the left, or a dpad is pressed to the right.
+The XR Interaction package provides an example implementation of a **Snap Turn Provider**. A Snap turn is when the user is rotated some fixed amount when an configured input is recevied. E.G: a joystic is moved to the left, or a dpad is pressed to the right.
+
+### Teleportation
+The XR Interaction system provides a simple implementation of teleportation. The **Teleportation Provider** Component implements the LocomotionProvider abstract class.
+
 
 ### ref
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.0/manual/locomotion.html
