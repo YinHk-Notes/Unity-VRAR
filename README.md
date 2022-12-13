@@ -21,6 +21,9 @@ https://docs.unity3d.com/ScriptReference/index.html
 
 [Introduction to VR in Unity - PART 1 : VR SETUP](https://www.youtube.com/watch?v=gGYtahQjmWQ)
 
+### Create a VR Starter Project from Scratch
+https://learn.unity.com/tutorial/create-a-vr-starter-project-from-scratch#
+
 ### Blog
 https://blog.unity.com/technology/unity-xr-platform-updates
 
