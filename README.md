@@ -1,5 +1,5 @@
 # Unity VR/AR
-Unity VR/AR development, buiding unity VR for meta qculus quest
+Unity VR/AR development, buiding unity VR for meta oculus quest
 
 ![](./unity-xr-tech-stack.png)
 
