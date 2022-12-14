@@ -7,3 +7,10 @@ https://www.khronos.org/openxr/
 https://www.youtube.com/@khronos
 
 https://www.youtube.com/watch?v=PxPIr_C5s7k
+
+
+### Unity OpenXR plugin 
+https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.6/manual/index.html
+
+### Scripting API 
+https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.6/api/index.html
