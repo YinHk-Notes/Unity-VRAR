@@ -24,4 +24,5 @@ To use the AR interaction components in the package, you must have the AR Founda
 ### Unity XR interaction toolkit 2.2.0 package doc
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/index.html
 
-
+### Scripting API
+https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/api/index.html
