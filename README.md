@@ -6,9 +6,6 @@ Unity VR/AR development, buiding unity VR for meta oculus quest
 ### Unity for VR developer
 https://unity.com/solutions/vr
 
-### Unity API 
-https://docs.unity3d.com/ScriptReference/index.html
-
 ### Tutorial
 [Create with VR - Unity Learn](https://learn.unity.com/course/create-with-vr)
 
