@@ -39,6 +39,6 @@ https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/in
 ### Scripting API
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/api/index.html
 
-### Components
+### XR Interaction Toolkit Components
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/components.html
 
