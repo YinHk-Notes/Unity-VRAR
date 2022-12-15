@@ -33,9 +33,12 @@ To use the AR interaction components in the package, you must have the AR Founda
 | Annotation | A piece of content placed above (or next to) an AR object to give users information and context. |
 | Haptic | Sensory or visual stimuli that is sent to the user to give feedback for interaction. |
 
-
 ### Unity XR interaction toolkit 2.2.0 package doc
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/index.html
 
 ### Scripting API
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/api/index.html
+
+### Components
+https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/components.html
+
