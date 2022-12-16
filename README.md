@@ -30,3 +30,8 @@ Dream up some new ambitious features for your personal project and try to implem
 As you continue developing your project, please share it with the Unity community! 
 
 2. Learn more about Programming for VR
+- Solidify your programming fundamentals
+- Implement some VR-specific functionality \
+  Once you are already comfortable with programming, you should attempt to follow some VR development tutorials to apply your programming skills on custom VR interactions. We highly recommend the VR with Andrew YouTube channel.
+
+
