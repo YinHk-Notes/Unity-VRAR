@@ -30,8 +30,17 @@ Dream up some new ambitious features for your personal project and try to implem
 As you continue developing your project, please share it with the Unity community! 
 
 2. Learn more about Programming for VR
-- Solidify your programming fundamentals
-- Implement some VR-specific functionality \
+- **Solidify your programming fundamentals**
+- **Implement some VR-specific functionality** \
   Once you are already comfortable with programming, you should attempt to follow some VR development tutorials to apply your programming skills on custom VR interactions. We highly recommend the VR with Andrew YouTube channel.
 
+3. Learn more about Art for VR
+- **Understand the Universal Render Pipeline**: \
+The Universal Render Pipeline (URP) provides artist-friendly workflows that let you quickly and easily create optimized graphics across a range of platforms, from mobile to high-end consoles and PCs. 
+- **Develop Low Poly assets** 
+- **Create custom materials and shaders**: 
+- **Learn more about lighting**:
 
+4. Take the Unity certificate exam 
+5. Share your work tocommunity
+  
