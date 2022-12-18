@@ -17,8 +17,23 @@ https://unity.com/solutions/vr
 
 https://www.youtube.com/channel/UCG8bDPqp3jykCGbx-CiL7VQ
 
+**VR game development for oculus quest**
+
+[Justin P Barnett - VR Game Dev](https://www.youtube.com/channel/UC1yXfU3c2gXchdmscjvCmMQ)
 ### Create a VR Starter Project from Scratch
 https://learn.unity.com/tutorial/create-a-vr-starter-project-from-scratch#
+
+**Easy tutorial for developing Virtual Reality applications with Unity.**
+
+[Valem](https://www.youtube.com/c/ValemVR/videos)
+
+**VR tutorial**
+
+[Sunny Valley Studio](https://www.youtube.com/@SunnyValleyStudio)
+
+**VR Development Fundamentals With Oculus Quest 2 And Unity**
+
+[VR Development Fundamentals With Oculus Quest 2 And Unity](https://www.udemy.com/course/oculus-quest-development-with-unity/)
 
 ### Blog
 https://blog.unity.com/technology/unity-xr-platform-updates
