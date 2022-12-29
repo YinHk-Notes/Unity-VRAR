@@ -6,6 +6,9 @@ Unity VR/AR development, buiding unity VR for meta oculus quest
 ### Unity for VR developer
 https://unity.com/solutions/vr
 
+### meta quest forum
+https://forums.oculusvr.com/t5/Oculus-Quest-2-and-Quest/bd-p/OculusQuest2AndQuest
+
 ### Tutorial
 [Create with VR - Unity Learn](https://learn.unity.com/course/create-with-vr)
 
