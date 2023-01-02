@@ -39,10 +39,10 @@ https://learn.unity.com/tutorial/create-a-vr-starter-project-from-scratch#
 **VR Development Fundamentals With Oculus Quest 2 And Unity**
 
 [VR Development Fundamentals With Oculus Quest 2 And Unity](https://www.udemy.com/course/oculus-quest-development-with-unity/)
+https://www.youtube.com/watch?v=53lwqmXCAXg
 
 ### Blog
 https://blog.unity.com/technology/unity-xr-platform-updates
-
 
 ### Learning path
 1. Continue working on your Personal Project
